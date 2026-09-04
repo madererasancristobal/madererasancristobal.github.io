@@ -10,18 +10,8 @@
     "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
     "name": "rolldown-runtime"
   },
-  "app/proyectos/ProjectCarousel.tsx": {
-    "file": "_next/static/chunks/ProjectCarousel-CahKSJJ8.js",
-    "name": "ProjectCarousel",
-    "src": "app/proyectos/ProjectCarousel.tsx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-C60lm6uB.js",
-      "_framework-BgSIrAUN.js"
-    ]
-  },
   "app/proyectos/ZoomableProjectImage.tsx": {
-    "file": "_next/static/chunks/ZoomableProjectImage-CD35CPMt.js",
+    "file": "_next/static/chunks/ZoomableProjectImage-C0f9x-iW.js",
     "name": "ZoomableProjectImage",
     "src": "app/proyectos/ZoomableProjectImage.tsx",
     "isDynamicEntry": true,
@@ -31,7 +21,7 @@
     ]
   },
   "node_modules/.pnpm/vinext@1.0.0-beta.2_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_46827034ea015a21abf9c268cda9eaa9/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-DfRfUtVw.js",
+    "file": "_next/static/chunks/layout-segment-context-BEWME2y0.js",
     "name": "layout-segment-context",
     "src": "node_modules/.pnpm/vinext@1.0.0-beta.2_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_46827034ea015a21abf9c268cda9eaa9/node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -42,7 +32,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-1iOORPXy.js",
+    "file": "_next/static/chunks/index-UNVwp0Z2.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -51,7 +41,6 @@
       "_framework-BgSIrAUN.js"
     ],
     "dynamicImports": [
-      "app/proyectos/ProjectCarousel.tsx",
       "virtual:vinext-app-browser-entry",
       "node_modules/.pnpm/vinext@1.0.0-beta.2_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_46827034ea015a21abf9c268cda9eaa9/node_modules/vinext/dist/shims/layout-segment-context.js",
       "app/proyectos/ZoomableProjectImage.tsx"
